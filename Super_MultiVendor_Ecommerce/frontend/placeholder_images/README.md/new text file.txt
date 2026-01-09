@@ -1,0 +1,6 @@
+# Super Multi Vendor E-Commerce Website
+
+Frontend: HTML, CSS, JS  
+Backend: Node.js, Express, MongoDB  
+
+Upload this project to GitHub and deploy.
